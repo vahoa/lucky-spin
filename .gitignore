@@ -1,0 +1,27 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependencies
+node_modules
+
+# Build
+dist
+dist-ssr
+*.local
+
+# Editor
+.idea
+.vscode/*
+!.vscode/extensions.json
+
+# Env secrets (keep tracked examples only)
+.env.*.local
+
+# Test / coverage
+coverage
+
+# OS
+.DS_Store
+Thumbs.db
